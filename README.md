@@ -10,6 +10,6 @@ Use the buttons in the top right corner to sort the portfolio by gains/loss, or 
 - Highly concentrated positions
 - Analyst/Quant consensus (from yahoo finance data)
 
-<img width="731" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/MainDashboard.png">
+<img width="1000" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/MainDashboard.png">
 
-<img width="731" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/Insights%26Decisions.png">
+<img width="1000" alt="stockbot_ex" src="https://github.com/frgnvola/Portfolio-Visualizer-/blob/main/Insights%26Decisions.png">
